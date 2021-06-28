@@ -1,0 +1,14 @@
+body{
+    background: red;
+    }
+    
+    h2{
+    color:blue;
+    text-decoration: underline;
+    }
+    
+    button{
+    background: brown;
+    color: white;
+    font-size: 120%;
+    }
